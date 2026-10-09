@@ -1,4 +1,4 @@
-# Tomato root metabolome under *Metarhizium anisopliae* and *Meloidogyne incognita*: factorial reanalysis
+# Tomato root metabolome under *Metarhizium anisopliae* and *Meloidogyne incognita*
 
 This repository contains the data and the R script used to analyse the tomato root metabolome in a 2 × 2 factorial experiment with the entomopathogenic fungus *Metarhizium anisopliae* (MA) and the root-knot nematode *Meloidogyne incognita* (MI). The code is the version run for the associated manuscript.
 
